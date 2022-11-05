@@ -1,0 +1,2 @@
+ledred.c:10:6:ledRedProcessing	8	static
+ledred.c:17:6:toggleLedRed	8	static
